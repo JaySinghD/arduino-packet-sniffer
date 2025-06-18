@@ -4,7 +4,7 @@ This project is a basic network packet sniffer built using an ESP32 microcontrol
 
 ## Overview
 
-The ESP32 monitors nearby Wi-Fi traffic and extracts information such as MAC addresses, protocol types, and packet types. The system can optionally filter and flag suspicious activity, such as ARP spoofing. ~~Output is sent to the serial monitor, and logging to an SD card is supported if the module is attached.
+The ESP32 monitors nearby Wi-Fi traffic and extracts information such as MAC addresses, protocol types, and packet types. The system can optionally filter and flag suspicious activity, such as ARP spoofing.
 
 ## Features
 
