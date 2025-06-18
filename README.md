@@ -44,8 +44,18 @@ One simple application of this project is detecting ARP spoofing attempts. The s
 - Not suitable for high-throughput or enterprise-level packet inspection.
 - Only 2.4 GHz Wi-Fi is supported (not 5 GHz).
 
+## Project Goals
+
+To learn about:
+- Network debugging
+- Intrusion detection
+- Protocol analysis
+- How network communication actually works
+
+
 ## Development Log
 
 | Date       | Milestone                                      |
 |------------|------------------------------------------------|
 | June 16    | Researched hardware and software requirements |
+| June 17    | Purchased and aranged required hardware |
