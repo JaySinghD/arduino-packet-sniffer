@@ -15,9 +15,9 @@ The ESP32 monitors nearby Wi-Fi traffic and extracts information such as MAC add
 
 ## Hardware Requirements
 
-- ESP32 development board
-- Micro USB cable
-- Breadboard, jumper wires, LED, and 220Ω resistor
+- ESP32 development board (ESP32-S3 Model)
+- USB-C cable
+- Breadboard, jumper wires, LED, and resistors
 
 ## Software Requirements
 
@@ -59,3 +59,4 @@ To learn about:
 |------------|------------------------------------------------|
 | June 16    | Researched hardware and software requirements |
 | June 17    | Purchased and aranged required hardware |
+| June 18    | Initial setup for ESP32-S3 microcontroller and Arduino IDE. Learning how to use ESP32-S3 |
