@@ -31,7 +31,7 @@ The ESP32 monitors nearby Wi-Fi traffic and extracts information such as MAC add
 2. Open `esp32-sniffer.ino` in the Arduino IDE.
 3. Connect the ESP32 via USB and select the correct board and port.
 4. Upload the sketch to the device.
-5. Open the Serial Monitor at 115200 baud to view live packet data.
+5. Open the Serial Monitor at 115200 (*Note: maybe would be 921600) baud to view live packet data.
 
 ## Use Case: ARP Spoofing Detection
 
