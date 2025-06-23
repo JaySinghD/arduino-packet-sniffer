@@ -60,3 +60,4 @@ To learn about:
 | June 16    | Researched hardware and software requirements |
 | June 17    | Purchased and aranged required hardware |
 | June 18    | Initial setup for ESP32-S3 microcontroller and Arduino IDE. Learning how to use ESP32-S3 |
+| June 22| Learning how to use ESP32-S3 |
