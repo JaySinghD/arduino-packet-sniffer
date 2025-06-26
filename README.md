@@ -62,3 +62,4 @@ To learn about:
 | June 18    | Initial setup for ESP32-S3 microcontroller and Arduino IDE. Learning how to use ESP32-S3 |
 | June 22| Learning how to use ESP32-S3 |
 | June 23| Encountered issue with ESP32-S3. Contacted manufacturer support. |
+| June 25| Resolved issue. Learned about ESP32-S3 capabilities related to Wi-Fi:|
