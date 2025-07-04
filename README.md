@@ -63,3 +63,4 @@ To learn about:
 | June 22| Learning how to use ESP32-S3 |
 | June 23| Encountered issue with ESP32-S3. Contacted manufacturer support. |
 | June 25| Resolved issue. Learned about ESP32-S3 capabilities related to Wi-Fi:|
+|June 03| Studied wireshark packet capture.|
